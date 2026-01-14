@@ -1,7 +1,7 @@
 {
   "name": "week2-mongo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Week 2 Exercise: JSON and MongoDB CRUD operations",
   "main": "index.js",
   "dependencies": {
     "bson": "^7.0.0",
@@ -19,5 +19,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datastructure-pro/week2-json-mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/datastructure-pro/week2-json-mongodb/issues"
+  },
+  "homepage": "https://github.com/datastructure-pro/week2-json-mongodb#readme"
 }
